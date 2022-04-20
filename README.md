@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Lisa
 
 
-### I’m a software engineer who enjoys solving problems, puzzles and crosswords. I’m the co-creator of QMantis, an open source observability tool :mag_right: for GraphQL APIs, built with Node.js, TimeScaleDB and OpenTelemetry. Read our technical [case study here](https://qmantis.org). 
+### I’m a software engineer who enjoys solving problems, puzzles and crosswords. I’m the co-creator of QMantis, an open source observability tool :mag_right: for GraphQL APIs, built with Node.js, TimeScaleDB and OpenTelemetry. Read our technical [case study here](https://qmantis.co). 
 
 
 <!--
