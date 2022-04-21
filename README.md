@@ -3,7 +3,7 @@
 
 I’m a software engineer who enjoys solving problems, puzzles and crosswords. I’m the co-creator of QMantis, an open source observability tool :mag_right: for GraphQL APIs, built with Node.js, TimeScaleDB and OpenTelemetry. Read our technical [case study here](https://qmantis.co). 
 - I love books, bikes, travelling and walking without purpose.
-- Fun fact: I find learning new languages super fun. I speak English, French, Portuguese and Spanish.
+- I realy like learning new languages. I speak English, French, Portuguese and Spanish.
 
 
 <!--
