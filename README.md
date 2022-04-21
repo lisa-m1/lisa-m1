@@ -1,9 +1,15 @@
 ## Hi there 👋, I'm Lisa
 
 
-I’m a software engineer who enjoys solving problems, puzzles and crosswords. I’m the co-creator of QMantis, an open source observability tool :mag_right: for GraphQL APIs, built with Node.js, TimeScaleDB and OpenTelemetry. Read our [technical case study here](https://qmantis.co). 
-- I love books, bikes, travelling and walking without purpose.
-- I really like learning new languages. I speak English, French, Portuguese and Spanish.
+:computer: I’m a software engineer who enjoys solving problems, puzzles and crosswords.  
+
+:mag_right: I’m the co-creator of QMantis, an open source observability toolfor GraphQL APIs, built with Node.js, TimeScaleDB and OpenTelemetry. Read our [technical case study here](https://qmantis.co). 
+
+:canada: Currently located in Montreal, Quebec.
+
+:books: I love books, bikes, travelling and walking without purpose.
+
+:world_map: I really like learning new languages. I speak English, French, Portuguese and Spanish.
 
 
 <!--
